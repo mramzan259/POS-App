@@ -1,0 +1,22 @@
+node_modules
+.dockerignore
+Dockerfile
+docker-compose.yml
+.next
+
+# Logs
+*.log
+
+# Git
+.git
+.gitignore
+
+# Environment files
+.env
+.env.*
+
+# Editor/OS specific (optional but recommended)
+.vscode
+*.swp
+.DS_Store
+
