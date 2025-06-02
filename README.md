@@ -24,6 +24,3 @@ A complete **Point of Sale system** built using **Next.js 15 App Router**, **Red
 - **Redis (ioredis)** for caching
 - **MongoDB Atlas** for data persistence
 - **Docker & Docker Compose** for containerization
-
-## 🐳 Docker Setup
-
